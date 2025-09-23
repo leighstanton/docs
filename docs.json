@@ -53,8 +53,9 @@
           {
             "group": "API documentation",
             "pages": [
-              "api-reference/API-policy",
-              "api-reference/introduction"
+              "api-reference/introduction",
+              "api-reference/API-policy"
+ 
               
             ]
           },
