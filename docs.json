@@ -84,8 +84,8 @@
     }
   },
   "logo": {
-    "light": "/logo/Accelerant-Logo-WhiteFullColorBird-HiRes.png",
-    "dark": "/logo/Accelerant-Logo-Black-HiRes.jpg"
+    "light": "/logo/Accelerant-Logo-Black-HiRes.jpg",
+    "dark": "/logo/Accelerant-Logo-WhiteFullColorBird-HiRes.png"
   },
   "navbar": {
     "links": [
