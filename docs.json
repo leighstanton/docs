@@ -59,6 +59,13 @@
               
             ]
           },
+          
+          {"group": "Referrals API",
+           "pages": [
+             "api-reference/referrals/referrals-intro"
+           ]
+          },
+          
           {
             "group": "Endpoint examples",
             "pages": [
