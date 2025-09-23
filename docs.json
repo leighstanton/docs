@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Accelerant developer docs",
   "colors": {
-    "primary": "#182556",
+    "primary": "#0B1233",
     "light": "#FFFFFF",
-    "dark": "#819FF8"
+    "dark": "#182556"
   },
   "favicon": "/Accelerant-favicon.png",
   "navigation": {
